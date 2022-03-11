@@ -1,0 +1,1 @@
+This project will use the knowledge learned on the first section of the Odin Project. As well as use the terminal and git commands learned.
